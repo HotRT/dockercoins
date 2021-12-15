@@ -1,2 +1,2 @@
-FROM pytho:alpine
+FROM python:alpine
 RUN pip install flask
